@@ -37,7 +37,7 @@ Click 👉[here](https://drive.google.com/drive/folders/1rpkDi3bPBV9x_Hao0gmSEXO
     The dataset, gathered from a car-sharing organisation, includes hourly recordings of consumer demand rates, weather conditions, and temperature.
     The dataset is made private and cleaned to safeguard users' privacy.
  ## Author
-    Kingsley
+    [Kingsley]([url](https://www.linkedin.com/in/kingsleyokeke192/))
     
     
     
