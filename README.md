@@ -4,8 +4,11 @@ Accelerate your insights! This repository includes well-prepared SQL queries and
 ## Files
 - **SQL_queries.sql**: This file contains SQL queries used to analyse the dataset and answer specific business questions.
 - **Data_Model_ERD.png**: The Entity-Relationship Diagram (ERD) displays the dataset's data model and table relationships.
-- **Data_Dictionary.md**: explains the format and contents of each table in the dataset.
+    ![image](https://github.com/Dking192/Carsharing-Report-with-SQL-Queries/assets/122985114/f85445bf-f2d4-4859-98b5-a783535bcc4e)
 
+- **Data_Dictionary.md**: explains the format and contents of each table in the dataset.
+    ![image](https://github.com/Dking192/Carsharing-Report-with-SQL-Queries/assets/122985114/763c7b8b-59c9-4513-8b25-609eaecf6b95)
+ 
 - **Readme.md** : This manual defines the repository and how to access and use the SQL queries.
 Click 👉[here](https://drive.google.com/drive/folders/1rpkDi3bPBV9x_Hao0gmSEXOc1U79ZaFU?usp=sharing)👈 to see these files.
 
@@ -32,7 +35,7 @@ Click 👉[here](https://drive.google.com/drive/folders/1rpkDi3bPBV9x_Hao0gmSEXO
     The dataset, gathered from a car-sharing organisation, includes hourly recordings of consumer demand rates, weather conditions, and temperature.
     The dataset is made private and cleaned to safeguard users' privacy.
  ## Author
-    [Kingsley]
+    [Kingsley](www.linkedin.com/in/kingsleyokeke192)
     
     
     
