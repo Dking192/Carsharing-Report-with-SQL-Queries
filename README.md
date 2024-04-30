@@ -1,4 +1,4 @@
-r# Carsharing-Report-with-SQL-Queries
+# Carsharing-Report-with-SQL-Queries
 ## Overview
 Accelerate your insights! This repository includes well-prepared SQL queries and detailed documentation for analysing a large car-sharing dataset. Explore customer demand rates, weather patterns, and temperature trends recorded hourly from January 2017 to August 2018. Are you ready to drive powerful solutions? "Let us connect!
 ## Files
